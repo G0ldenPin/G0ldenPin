@@ -71,11 +71,7 @@ I love breaking down complex problems, writing clean code, and I'm currently div
 ## [~]$ ./execute_github_stats.sh
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G0ldenPin&show_icons=true&theme=tokyonight)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G0ldenPin&layout=compact&theme=tokyonight)
-<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=G0ldenPin&theme=tokyonight)
+ [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=G0ldenPin&layout=donut-vertical&langs_count=6&hide_values=true&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=G0ldenPin&layout=donut-vertical&langs_count=6&hide_values=true&theme=jolly) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=G0ldenPin&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=G0ldenPin&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=jolly)
 
 </div>
 
